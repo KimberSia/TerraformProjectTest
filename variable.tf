@@ -22,6 +22,3 @@ variable "public_subnets" {
     "public_subnet_1" = 1
   }
 }
-variable "my_ip" {
-  description = "public_ip_address"
-}
